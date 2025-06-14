@@ -1,0 +1,15 @@
+#top{
+    width: 800px;
+    background-color: #dcc9f4;
+    padding: 20px 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.top-child{
+    width: 20%;
+    background-color: #ffd9df;
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+}
